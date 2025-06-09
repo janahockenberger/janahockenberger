@@ -13,3 +13,7 @@ If you want to lift your environment either to the cloud or want to leverage you
 - [🧽 Cleaning up Security Hub with AWS Resource Explorer 🫧](https://dev.to/janahockenberger/cleaning-up-security-hub-with-aws-resource-explorer-1nfo)
 - [Automated Control Rollout in AWS Control Tower](https://dev.to/janahockenberger/automated-control-rollout-in-aws-control-tower-21oc)
 - [AWS Automatically Accept Transit Gateway Attachments for allowed CIDR and Account pairs](https://dev.to/janahockenberger/aws-automatically-accept-transit-gateway-attachments-for-allowed-cidr-and-account-pairs-384o)
+
+### ☕ Get me a Coffee
+
+If you want to support me, you can buy me a [coffee](https://coff.ee/janahockenberger)!
